@@ -6,7 +6,7 @@
     (property "Value" "SHR05" (at 0 5.08 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "sl-kicad-lib:SRH05" (at 0 0 0)
+    (property "Footprint" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.xppower.com/portals/0/pdfs/SF_SRH05.pdf" (at 0 10.16 0)
