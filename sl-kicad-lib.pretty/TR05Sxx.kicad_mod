@@ -109,7 +109,7 @@
 	)
 	(fp_poly
 		(pts
-			(xy -4 -2) (xy -3.5 -2.5) (xy -4.5 -2.5)
+			(xy 2.54 -2) (xy 3.04 -2.5) (xy 2.04 -2.5)
 		)
 		(stroke
 			(width 0.1)
@@ -132,12 +132,12 @@
 		)
 	)
 	(pad "1" thru_hole circle
-		(at -2.54 0)
+		(at 2.54 0)
 		(size 1.524 1.524)
 		(drill 0.762)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "7f25c75f-b3fb-4d44-96f4-51f0c48372f0")
+		(uuid "802515d3-bace-4613-b2a3-0d77ad2b88e7")
 	)
 	(pad "2" thru_hole circle
 		(at 0 0)
@@ -148,12 +148,12 @@
 		(uuid "d466df10-0b07-4445-b8a6-4f190b30622d")
 	)
 	(pad "3" thru_hole circle
-		(at 2.54 0)
+		(at -2.54 0)
 		(size 1.524 1.524)
 		(drill 0.762)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
-		(uuid "802515d3-bace-4613-b2a3-0d77ad2b88e7")
+		(uuid "7f25c75f-b3fb-4d44-96f4-51f0c48372f0")
 	)
 	(model "../mechanical/TR05.STEP"
 		(offset
